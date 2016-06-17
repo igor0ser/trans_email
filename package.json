@@ -1,0 +1,20 @@
+﻿{
+  "name": "my_email",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject-file": "0.0.17",
+    "gulp-open": "^1.0.0",
+    "gulp-watch": "^4.3.5"
+  },
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
